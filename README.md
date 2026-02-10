@@ -5,5 +5,5 @@ Bu tarayıcı eklentisi, Instagram Reels, YouTube Shorts ve TikTok üzerinde ge�
 ## Özellikler
 * **Çoklu Platform:** Instagram, YouTube ve TikTok desteği.
 * **Günlük Limit:** Kullanıcı tarafından belirlenen süre dolduğunda uyarı verir.
-* **Yavaşlatma Etkisi:** Limit dolduğunda videolar %50 hızında oynatılır (0.5x).
+* **Yavaşlatma Etkisi:** Limit dolduğunda videolar %40 hızında oynatılır (0.4x).
 * **Akıllı Sıfırlama:** Her gün 00:00'da süre otomatik sıfırlanır.
